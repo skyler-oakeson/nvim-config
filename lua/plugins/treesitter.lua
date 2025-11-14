@@ -14,7 +14,8 @@ require('nvim-treesitter.configs').setup({
     "markdown",
     "java",
     "html",
-    "haskell"
+    "haskell",
+    "sql"
   },
 
   highlight = {
